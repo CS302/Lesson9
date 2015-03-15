@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\Lesson9\QueueThreads\bin\Debug\QueueThreads.exe.config
+C:\Users\Alex\Desktop\Lesson9\QueueThreads\bin\Debug\QueueThreads.exe
+C:\Users\Alex\Desktop\Lesson9\QueueThreads\bin\Debug\QueueThreads.pdb
+C:\Users\Alex\Desktop\Lesson9\QueueThreads\obj\Debug\QueueThreads.exe
+C:\Users\Alex\Desktop\Lesson9\QueueThreads\obj\Debug\QueueThreads.pdb

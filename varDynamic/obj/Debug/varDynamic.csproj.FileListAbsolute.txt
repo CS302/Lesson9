@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\Lesson9\varDynamic\bin\Debug\varDynamic.exe.config
+C:\Users\Alex\Desktop\Lesson9\varDynamic\bin\Debug\varDynamic.exe
+C:\Users\Alex\Desktop\Lesson9\varDynamic\bin\Debug\varDynamic.pdb
+C:\Users\Alex\Desktop\Lesson9\varDynamic\obj\Debug\varDynamic.exe
+C:\Users\Alex\Desktop\Lesson9\varDynamic\obj\Debug\varDynamic.pdb

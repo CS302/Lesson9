@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\Lesson9\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\Alex\Desktop\Lesson9\WinForm\bin\Debug\WinForm.exe
+C:\Users\Alex\Desktop\Lesson9\WinForm\bin\Debug\WinForm.pdb
+C:\Users\Alex\Desktop\Lesson9\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Lesson9\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\Alex\Desktop\Lesson9\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\Alex\Desktop\Lesson9\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Lesson9\WinForm\obj\Debug\WinForm.exe
+C:\Users\Alex\Desktop\Lesson9\WinForm\obj\Debug\WinForm.pdb

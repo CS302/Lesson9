@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Lesson9\Lesson9_Processes\bin\Debug\Lesson9_Processes.exe.config
+C:\Users\Alex\Desktop\Lesson9\Lesson9_Processes\bin\Debug\Lesson9_Processes.exe
+C:\Users\Alex\Desktop\Lesson9\Lesson9_Processes\bin\Debug\Lesson9_Processes.pdb
+C:\Users\Alex\Desktop\Lesson9\Lesson9_Processes\obj\Debug\Lesson9_Processes.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Lesson9\Lesson9_Processes\obj\Debug\Lesson9_Processes.exe
+C:\Users\Alex\Desktop\Lesson9\Lesson9_Processes\obj\Debug\Lesson9_Processes.pdb
